@@ -1,0 +1,4 @@
+repo: 2a9b17b425fbd796da3ee43fc55a9c782783e623
+node: 091ed21e8314f73837699cce95057e4d0504d2c7
+branch: maintenance-1.2
+tag: 1.2.1
